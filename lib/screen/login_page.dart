@@ -1,6 +1,6 @@
-import 'package:projectmobilemagang/database/db_helper.dart';
-import 'package:projectmobilemagang/screen/main_menu_page.dart';
-import 'package:projectmobilemagang/utils/strings.dart';
+import 'package:attendanceultimate/database/db_helper.dart';
+import 'package:attendanceultimate/screen/main_menu_page.dart';
+import 'package:attendanceultimate/utils/strings.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:progress_dialog/progress_dialog.dart';
