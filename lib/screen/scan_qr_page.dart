@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:attendanceultimate/database/db_helper.dart';
-import 'package:attendanceultimate/model/settings.dart';
-import 'package:attendanceultimate/screen/login_page.dart';
-import 'package:attendanceultimate/utils/strings.dart';
+import '../database/db_helper.dart';
+import '../model/settings.dart';
+import '../screen/login_page.dart';
+import '../utils/strings.dart';
 import 'package:barcode_scan/barcode_scan.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
